@@ -1,1 +1,1 @@
-# ad_effectiveness_CI
+# Ad Effectiveness and Causal Inference
