@@ -1,4 +1,4 @@
-![](../images/repoimage.png)
+![](./images/repoimage.png)
 
 # Ad Effectiveness and Causal Inference
 
