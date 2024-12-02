@@ -1,0 +1,34 @@
+name: ad_effectiveness_project
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - pandas
+  - numpy
+  - scipy
+  - matplotlib
+  - seaborn
+  - scikit-learn
+  - statsmodels
+  - jupyterlab
+  - ipython
+  - jupyter
+  - pytorch
+  - tensorflow
+  - xgboost
+  - lightgbm
+  - mlflow
+  - causalml
+  - dowhy
+  - graphviz
+  - networkx
+  - pydot
+  - plotly
+  - altair
+  - bokeh
+  - holoviews
+  - nb_conda
+  - pip:
+      - shap
+      - interpret
